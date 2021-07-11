@@ -1,0 +1,3 @@
+[submodule "app/files/lambda-function/vendor/up"]
+	path = app/files/lambda-function/vendor/up
+	url = git@github.com:boltopspro/up.git
